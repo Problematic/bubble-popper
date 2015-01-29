@@ -1,0 +1,19 @@
+{
+    "resources": [
+        "/assets/bubble-pop.ogg",
+        "/assets/bubble-pop.mp3"
+    ],
+    "spritemap": {
+        "pop0": { "start": 0.140, "end": 0.272 },
+        "pop1": { "start": 1.240, "end": 1.362 },
+        "pop2": { "start": 2.215, "end": 2.328 },
+        "pop3": { "start": 3.215, "end": 3.320 },
+        "pop4": { "start": 4.490, "end": 4.58 },
+        "pop5": { "start": 5.800, "end": 5.895 },
+        "pop6": { "start": 7.160, "end": 7.255 },
+        "pop7": { "start": 8.080, "end": 8.146 },
+        "pop8": { "start": 8.820, "end": 8.895 },
+        "pop9": { "start": 9.740, "end": 9.815 },
+        "pop10": { "start": 10.73, "end": 10.796 }
+    }
+}

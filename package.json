@@ -1,0 +1,33 @@
+{
+  "name": "bubble-popper",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --colors --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Problematic/bubble-popper.git"
+  },
+  "author": "Derek Stobbe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Problematic/bubble-popper/issues"
+  },
+  "homepage": "https://github.com/Problematic/bubble-popper",
+  "devDependencies": {
+    "css-loader": "^0.9.1",
+    "exports-loader": "^0.6.2",
+    "file-loader": "^0.8.1",
+    "script-loader": "^0.6.1",
+    "source-map-loader": "^0.1.3",
+    "style-loader": "^0.8.3",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.5.3"
+  },
+  "dependencies": {
+    "phaser": "^2.2.2"
+  }
+}
